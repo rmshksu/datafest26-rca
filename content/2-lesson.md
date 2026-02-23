@@ -772,13 +772,13 @@ We made a lot of assumptions to get here, look out for egregious ones in your pr
 
 <br>
 
-2. "It's easy to lie with statistics; it is easier to lie without them." - Frederick Mosteller
+> "It's easy to lie with statistics; it is easier to lie without them." - Frederick Mosteller
 
 Be sure to show as much of the truth as you can in your presentation. Even a poorly scaled figure can warp a decision maker's perspective enough to cause errors.
 
 <br>
 
-3. "Most of the time, when you get an amazing, counterintuitive result, it means you have screwed up the experiment." - Michael Wigler
+> "Most of the time, when you get an amazing, counterintuitive result, it means you have screwed up the experiment." - Michael Wigler
 
 We want significant results, but don't get married to the idea of them. More than likely what we'll find is very minimal *and that's okay*!
 
