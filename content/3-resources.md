@@ -50,3 +50,11 @@ nav: References
     d. [FBI Uniform Crime Reporting Program](https://www.fbi.gov/how-we-can-help-you/more-fbi-services-and-information/ucr)
 
     e. [CDC/ATSDR Social Vulnerability Index](https://www.atsdr.cdc.gov/place-health/php/svi/index.html)
+
+    f. [Trends in and Characteristics of Drug Overdose Deaths Involving Illicitly Manufactured Fentanyls — United States, 2019–2020](https://pmc.ncbi.nlm.nih.gov/articles/PMC8675656/pdf/mm7050e3.pdf)
+
+    g. [Vital Signs: Drug Overdose Deaths, by Selected Sociodemographic and Social Determinants of Health Characteristics — 25 States and the District of Columbia, 2019–2020](https://pmc.ncbi.nlm.nih.gov/articles/PMC9310633/pdf/mm7129e2.pdf)
+
+    h. [Increases in Drug and Opioid Overdose Deaths—United States, 2000–2014](https://www.sciencedirect.com/science/article/pii/S1600613522008991?ref=pdf_download&fr=RR-2&rr=9d2908b23ad4d307)
+
+    i. [Evolving Trends in US Mortality from Opioid Overdose: Heroin and Beyond](https://www.sciencedirect.com/science/article/pii/S0002934323005387?ref=pdf_download&fr=RR-2&rr=9d290836daadd307)
