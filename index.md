@@ -11,7 +11,15 @@ layout: page
 
 *This workshop demonstrates how to identify a problem, clean messy data, choose the right tools for analysis, and develop solutions that decision-makers can act on.*
 
+<br>
+
+
+
 {% include toc.html %}
+
+<br>
+
+{% include figure.html img="datafestws26.png" alt="website QR code" width="65%" %}
 
 ------
 
