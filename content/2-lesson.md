@@ -793,3 +793,13 @@ We want significant results, but don't get married to the idea of them. More tha
 <br>
 
 <br>
+
+<br>
+
+<br>
+
+<br>
+
+## Thank you, Go Cats, Go Stats!
+
+{% include figure.html img="statclublogo.png" alt="lavendar normal density curve and histogram" width="65%" %}
