@@ -19,3 +19,54 @@ $container-max: 750px;
 @import
   "template", "custom"
 ;
+
+/* ---------- Muted rainbow button set ---------- */
+.btn-step-1 { background-color: #e0636f; border-color: #e0636f; color: #fff; } /* muted red */
+.btn-step-2 { background-color: #f0a36b; border-color: #f0a36b; color: #1b1b1b; } /* muted orange */
+.btn-step-3 { background-color: #e8c24a; border-color: #e8c24a; color: #1b1b1b; } /* muted yellow */
+.btn-step-4 { background-color: #4da984; border-color: #4da984; color: #fff; } /* muted green */
+.btn-step-5 { background-color: #39b6c6; border-color: #39b6c6; color: #06323a; } /* muted teal */
+.btn-step-6 { background-color: #4e7dd8; border-color: #4e7dd8; color: #fff; } /* muted blue */
+.btn-step-7 { background-color: #6b6fdc; border-color: #6b6fdc; color: #fff; } /* muted indigo */
+.btn-step-8 { background-color: #9a6fe6; border-color: #9a6fe6; color: #fff; } /* muted purple */
+.btn-step-9 { background-color: #e57bb8; border-color: #e57bb8; color: #fff; } /* muted pink */
+
+/* ---------- Big, card-style modal trigger buttons ---------- */
+.modal-trigger {
+  padding: 1.05rem 2.2rem;
+  font-size: 1.15rem;
+  font-weight: 650;
+  border-radius: 1rem;
+  box-shadow: 0 6px 16px rgba(0,0,0,0.12);
+  letter-spacing: 0.2px;
+}
+
+/* Subtle hover animation (professional, not flashy) */
+.modal-trigger:hover,
+.modal-trigger:focus {
+  transform: translateY(-2px);
+  box-shadow: 0 10px 22px rgba(0,0,0,0.16);
+  filter: brightness(0.98);
+}
+
+/* Nice focus ring for accessibility */
+.modal-trigger:focus {
+  outline: 0;
+  box-shadow: 0 10px 22px rgba(0,0,0,0.16), 0 0 0 0.2rem rgba(78,125,216,0.25);
+}
+
+/* ---------- Bigger modal content ---------- */
+.modal-title {
+  font-size: 1.35rem;
+  font-weight: 750;
+}
+
+.modal-body {
+  font-size: 1.08rem;
+  line-height: 1.6;
+}
+
+/* Optional: slightly roomier modal padding */
+.modal-header, .modal-body, .modal-footer {
+  padding: 1.25rem 1.5rem;
+}

@@ -10,12 +10,12 @@
 # SITE SETTINGS
 #
 # title appears in the header
-title: workshop-template-b
+title: Solving Problems with Data
 # title-icon appears in the header to give some pizazz (leave blank for none)
 # choose from Bootstrap Icons in _includes/bootstrap-icons
 # find names on https://icons.getbootstrap.com/
 # some options: code-slash file-code gear tools lightblub book bookmark-star
-title-icon: code-slash
+title-icon: diagram-3
 # description, keywords, and image for meta tags
 # these do not visibility appear on the pages, but used for SEO
 description: "Create a workshop website quick and easy!"
@@ -27,11 +27,11 @@ featured-image: "/images/uidaho-workshop.jpg"
 search: true
 
 # author settings for cc-by, appears in the footer and credits
-author: evan will
+author: Robert Sholl
 # your github username for link [optional]
-github_username: evanwill
+github_username: rmssh
 # year or date published
-pub_year: 2021
+pub_year: 2026
 # location of code, the full url to your github repository
 source-code: https://github.com/evanwill/workshop-template-b
 

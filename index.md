@@ -3,19 +3,13 @@ title: Home
 layout: page
 ---
 
-# Bootstrap Workshop Template!
+# ASA Datafest '26 Skill Building Workshops
 
-{% include figure.html img="uidaho-workshop.jpg" alt="intro image here" caption="Library workshop" width="75%" %}
+{% include figure.html img="datafest26.png" alt="Data fest 2026" caption="A celebration of data." width="75%" %}
 
-A minimal Jekyll theme with Bootstrap for creating workshop websites.
+## Solving Problems with Data
 
-*Add your workshop abstract here!*
-
-Learn how to create a super quick easy website for a workshop by writing a few markdown files! 
-Host it for free on GitHub with gh-pages, and share!
-Fun!
-
-*See also:* [workshop-template](https://evanwill.github.io/workshop-template/), original minimal version.
+*This workshop demonstrates how to identify a problem, clean messy data, choose the right tools for analysis, and develop solutions that decision-makers can act on.*
 
 {% include toc.html %}
 
